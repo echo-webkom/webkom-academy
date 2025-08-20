@@ -1,6 +1,6 @@
 # webkom-academy
 
-Webkom sin interne opplærningsprosess
+Webkom sin interne opplæringsprosess
 
 ## Kom igang!
 
